@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_Java/static/css/main.62416734.chunk.css",
+    "main.js": "/React_Java/static/js/main.988e3e95.chunk.js",
+    "main.js.map": "/React_Java/static/js/main.988e3e95.chunk.js.map",
+    "runtime-main.js": "/React_Java/static/js/runtime-main.6936ecbd.js",
+    "runtime-main.js.map": "/React_Java/static/js/runtime-main.6936ecbd.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React_Java/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f160bb9b.chunk.js": "/React_Java/static/js/2.f160bb9b.chunk.js",
+    "static/js/2.f160bb9b.chunk.js.map": "/React_Java/static/js/2.f160bb9b.chunk.js.map",
+    "static/js/3.93ca6f30.chunk.js": "/React_Java/static/js/3.93ca6f30.chunk.js",
+    "static/js/3.93ca6f30.chunk.js.map": "/React_Java/static/js/3.93ca6f30.chunk.js.map",
+    "index.html": "/React_Java/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React_Java/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.62416734.chunk.css.map": "/React_Java/static/css/main.62416734.chunk.css.map",
+    "static/js/2.f160bb9b.chunk.js.LICENSE.txt": "/React_Java/static/js/2.f160bb9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6936ecbd.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f160bb9b.chunk.js",
+    "static/css/main.62416734.chunk.css",
+    "static/js/main.988e3e95.chunk.js"
+  ]
+}
